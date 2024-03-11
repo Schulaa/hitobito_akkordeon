@@ -11,5 +11,5 @@ application:
     fr: Français
   footer:
     links:
-      "Dokumentation": https://hitobito.readthedocs.io
-      "E-Mail an Support": 'mailto:support@hitobito.com'
+      - "Dokumentation": https://hitobito.readthedocs.io
+      - "E-Mail an Support": "mailto:support@hitobito.com"
